@@ -22,7 +22,6 @@
 
 #### Backend
 - **NestJS**
-- **Node.js**
 - **TypeScript**
 - **PostgreSQL**
 - **REST API**
