@@ -2,7 +2,7 @@
   <h1>Hi 👋, I'm Faruk Biberoglu</h1>
   <h3>🚀 Software Developer | Backend & Mobile</h3>
 
-  🌐 <a href="https://farukbiberoglu-web.vercel.app/" target="_blank">Portfolio</a> •
+  🌐 <a href="https://farukwebsite.netlify.app/" target="_blank">Portfolio</a> •
   📱 <a href="https://apps.apple.com/us/developer/faruk-biberolu/id1869031643" target="_blank">App Store</a> •
   💼 <a href="https://linkedin.com/in/faruk-biberoglu" target="_blank">LinkedIn</a>
 </div>
