@@ -56,11 +56,10 @@ I build mobile products end to end: the Flutter client, the NestJS API behind it
 
 ## Experience & Credentials
 
-**Software Developer** — Neon Apps · Full-time · *2024 — Present*
+**Software Developer** — Neon Apps · Full-time - Software Developer · *2024 — Present*
 
-**AWS Certified Cloud Practitioner** — Amazon Web Services · *Valid through Jul 2029*
+**AWS Certified Solution Architect** — Amazon Web Services · *Valid through Jul 2029*
 
-**B.Sc. Electrical & Electronics Engineering**
 
 ---
 
