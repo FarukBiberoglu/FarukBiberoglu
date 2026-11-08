@@ -81,7 +81,7 @@ I build and ship end-to-end software products, from cross-platform mobile applic
 
 ## Certifications
 
-- ☁️ **AWS Certified Solutions Architect – Professional**
+- ☁️ **AWS Certified Solutions Architect**
 - ☁️ **AWS Certified Cloud Practitioner**
 
 ---
